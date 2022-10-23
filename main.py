@@ -6,4 +6,4 @@ print("no hello again")
 print("Ben like github")
 =======
 print("git is cool")
->>>>>>> 58f22a0c39b9262deed57c25ceb51fde462f6f47
+print("git is good for groups")
